@@ -47,25 +47,9 @@ const p = 3.14
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-//  first Line in javascript => Hello world!
-//  print it on console 
-
-
-
-
-//  variables
+// first Line in javascript => Hello world!
+// print it on console 
+// variables
 // Number	Double precision floating-point
 // String	Series of characters
 // Boolean	true or false
@@ -73,6 +57,52 @@ const p = 3.14
 // Value	String, Number, Boolean, null etc
 // Object	Unordered collection of key/value pairs
 // null	Null or Empty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
